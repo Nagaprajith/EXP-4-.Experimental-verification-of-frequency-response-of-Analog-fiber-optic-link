@@ -86,6 +86,7 @@ Transmission through Analog Link
 ## MODEL GRAPH
 
 ![WhatsApp Image 2025-11-16 at 15 13 17_f9ec1fc5](https://github.com/user-attachments/assets/8bf84e84-5f9a-41c0-872f-50cb3de1e434)
+![WhatsApp Image 2025-11-16 at 15 13 52_7eb6fb3e](https://github.com/user-attachments/assets/a3a0fb37-11d5-430c-94dc-ec95c5b89db8)
 
 ## RESULT
 
